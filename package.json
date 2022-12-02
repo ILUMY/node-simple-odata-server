@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "methods": "1.1.2",
-    "odata-parser": "ILUMY/node-odata-parser#acaf6cae66b2b49182021f8db583a0b0b210be0a",
+    "odata-parser": "ILUMY/node-odata-parser#5e6526b06473d611e44f560b0972bd8fc0610088",
     "path-to-regexp": "6.2.1",
     "safe-buffer": "5.2.1",
     "xmlbuilder": "15.1.1"
